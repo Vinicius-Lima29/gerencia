@@ -1,2 +1,5 @@
 # gerencia
-gerenciador de tarefas
+gerenciador de tarefas  
+ O projeto tem como finalidade gerenciar as tarefas do usuário para que ele conclua os objetivos que foram postos no aplicativo, pessoas com problemas de memória ou com a rotina predefinida como pessoas que trabalham em escritórios ou pessoas com uma certa idade poderiam necessitar do aplicativo porque podem ter problemas como falta de organização, esquecimento dos afazeres, problemas de ansiedade por esquecer algo importante do trabalho.
+
+ Agora com o uso do aplicativo as pessoas reduziriam esse tipo de problema já que as pessoas irão poder administrar sua rotina melhor e diminuiria o esquecimento dos afazeres, a aplicação teria uma lista que o usuário escreveria as tarefas que gostaria de concluir podendo excluir ao tocar na tarefa que foi concluída, as informações que teriam na tela do aplicativo seriam as tarefas postas pelo utilizador da aplicação podendo ser excluídas a qualquer momento em caso de termino da tarefa ou erro de escrita, as tarefas seriam organizadas em uma lista de afazeres do usuário que são os seus objetivos podendo ser modificada a qualquer hora.
